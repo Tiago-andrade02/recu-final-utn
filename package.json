@@ -3,6 +3,7 @@
     "axios": "^1.10.0"
   },
   "devDependencies": {
-    "@types/axios": "^0.9.36"
+    "@types/axios": "^0.9.36",
+    "@types/node": "^24.0.12"
   }
 }
